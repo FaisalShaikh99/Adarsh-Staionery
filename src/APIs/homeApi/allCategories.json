@@ -1,0 +1,2539 @@
+{
+  "bags & storage": {
+    "School Bag": [
+      {
+        "id": "s1",
+        "name": "Hotshot School Bag",
+        "price": 650,
+        "mrp": 950,
+        "discount": "31.58%",
+        "rating": 4.5,
+        "description": "High-quality Puma school bag with padded laptop sleeve and ergonomic design for students in grades 7-12.",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/backpack/u/q/j/18-hotshot-bag-school-bag-tuition-bag-office-bag-college-original-imahyrrv2mhzydzb.jpeg?q=90&crop=false",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s2",
+        "name": "Safari School Bag",
+        "price": 580,
+        "mrp": 850,
+        "discount": "31.76%",
+        "rating": 4.0,
+        "description": "A durable and spacious Safari backpack ideal for school, featuring multiple pockets and adjustable shoulder straps.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQUBtCgAx1j5dBgKYwIwmtgp4fecZnlA992kBKA1yxaCaf9RlRL7vsZM49ZQd-JmZ80BFslq2ZXvTy8rRa7vrP7yALTsyfmwPEgT4DzongXBRbLvHZzBrM0ow",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s3",
+        "name": "Adisa School Bag",
+        "price": 450,
+        "mrp": 750,
+        "discount": "40%",
+        "rating": 3.8,
+        "description": "Lightweight and stylish Adisa school backpack with a comfortable design and ample storage for books and essentials.",
+        "image": "https://f.media-amazon.com/images/I/6175Nru3TXL._SX569_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s4",
+        "name": "Kyros School Bag",
+        "price": 700,
+        "mrp": 900,
+        "discount": "22.22%",
+        "rating": 4.1,
+        "description": "Kyros school bag known for its sturdy construction and practical compartments, suitable for daily use.",
+        "image": "https://f.media-amazon.com/images/I/71Goa7sfDpL._SX569_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s5",
+        "name": "Americal Tourister School Bag",
+        "price": 750,
+        "mrp": 980,
+        "discount": "23.47%",
+        "rating": 3.9,
+        "description": "Reliable Americal Tourister backpack designed for school, offering good space and comfortable carrying.",
+        "image": "https://f.media-amazon.com/images/I/613QWMa-37L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "v6",
+        "name": "Americal Tourister School Bag",
+        "price": 1350,
+        "mrp": 1800,
+        "discount": "25%",
+        "rating": 4.2,
+        "description": "Premium Americal Tourister school backpack with extra padding and specialized pockets for better organization.",
+        "image": "https://f.media-amazon.com/images/I/51yfw2JIxwL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s7",
+        "name": "Sky  School Bag",
+        "price": 1100,
+        "mrp": 1600,
+        "discount": "31.25%",
+        "rating": 3.7,
+        "description": "Stylish Sky school bag with unique design elements and durable fabric for everyday school use.",
+        "image": "https://f.media-amazon.com/images/I/71a2UWmt5PL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "s8",
+        "name": "Safari School Bag",
+        "price": 1050,
+        "mrp": 1500,
+        "discount": "30%",
+        "rating": 4.0,
+        "description": "Spacious Safari school backpack with multiple compartments and a water bottle holder, ideal for students.",
+        "image": "https://i.pinimg.com/736x/64/b6/7e/64b67eb0456a42799f1514ebd21f00b9.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Office Bag": [
+      {
+        "id": "O1",
+        "name": "Professional Office Bag",
+        "price": 4200,
+        "mrp": 6500,
+        "discount": "35.38%",
+        "rating": 4.3,
+        "description": "A sophisticated office bag with dedicated laptop and tablet sleeves, plus organizational pockets for documents and accessories.",
+        "image": "https://m.media-amazon.com/images/I/51fy+bEmViL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O2",
+        "name": "Sleek Office Bag",
+        "price": 1500,
+        "mrp": 2300,
+        "discount": "34.78%",
+        "rating": 4.1,
+        "description": "A compact and stylish office bag perfect for carrying essentials like a laptop, files, and stationery.",
+        "image": "https://m.media-amazon.com/images/I/81bOvpkxaJL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O3",
+        "name": "Executive Office Bag",
+        "price": 1700,
+        "mrp": 2600,
+        "discount": "34.62%",
+        "rating": 4.0,
+        "description": "A high-quality office bag with a professional look, offering ample space and durable construction.",
+        "image": "https://m.media-amazon.com/images/I/81bwK5EdeCL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O4",
+        "name": "Versatile Office Bag",
+        "price": 1600,
+        "mrp": 2500,
+        "discount": "36%",
+        "rating": 3.8,
+        "description": "An adaptable office bag that can be carried as a backpack or briefcase, with multiple compartments for organization.",
+        "image": "https://m.media-amazon.com/images/I/91p6EBlknFL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O5",
+        "name": "Lightweight Office Bag",
+        "price": 1450,
+        "mrp": 2200,
+        "discount": "34.09%",
+        "rating": 3.9,
+        "description": "A comfortable and lightweight office bag ideal for daily commute, with sufficient space for work essentials.",
+        "image": "https://m.media-amazon.com/images/I/81ayQLZFoiL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O6",
+        "name": "Stylish Office Bag",
+        "price": 1550,
+        "mrp": 2400,
+        "discount": "35.42%",
+        "rating": 4.2,
+        "description": "A modern and stylish office bag that combines functionality with a professional aesthetic.",
+        "image": "https://m.media-amazon.com/images/I/41-V4wZtG6L._AC_AC_SY300_QL15_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O7",
+        "name": "Durable Office Bag",
+        "price": 1650,
+        "mrp": 2550,
+        "discount": "35.29%",
+        "rating": 4.1,
+        "description": "A robust and durable office bag designed to withstand daily wear and tear, offering reliable storage.",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2025/1/483060002/QD/NC/DQ/10494862/men-s-black-office-bag-500x500.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "O8",
+        "name": "Spacious Office Bag",
+        "price": 1750,
+        "mrp": 2700,
+        "discount": "35.19%",
+        "rating": 3.9,
+        "description": "An office bag with a large capacity, suitable for carrying laptops, documents, and other professional items.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-DCuvqTm15UrQ0b9bffNNZM7HSflR470Ug&s",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Travelling Bag": [
+      {
+        "id": "T1",
+        "name": "Compact Travelling Bag",
+        "price": 2200,
+        "mrp": 3400,
+        "discount": "35.29%",
+        "rating": 4.0,
+        "description": "A convenient and compact travelling bag perfect for short trips and carrying essential items.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0w_qMQlgZmQRNK9n53Q0I16vLdn6SSUxrSg&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "T2",
+        "name": "Durable Travelling Bag",
+        "price": 2500,
+        "mrp": 3800,
+        "discount": "34.21%",
+        "rating": 4.2,
+        "description": "A sturdy and reliable travelling bag made from durable materials to withstand the rigors of travel.",
+        "image": "https://images.meesho.com/images/products/130535816/1eexq_512.webp",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "T3",
+        "name": "Spacious Travelling Bag",
+        "price": 2800,
+        "mrp": 4200,
+        "discount": "33.33%",
+        "rating": 4.1,
+        "description": "A large capacity travelling bag offering ample space for clothes, accessories, and travel essentials.",
+        "image": "https://www.morpheushealthcare.com/cdn/shop/products/premium_travel_bag.jpg?v=1643719226",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "T4",
+        "name": "Lightweight Travelling Bag",
+        "price": 2100,
+        "mrp": 3200,
+        "discount": "34.38%",
+        "rating": 3.9,
+        "description": "A comfortable and lightweight travelling bag designed for easy carrying during your journeys.",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230812/i4Ui/64d74c8ca9b42d15c9a8d625/-473Wx593H-4924072250-multi-MODEL.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Laptop Bag": [
+      {
+        "id": "l1",
+        "name": "Professional Laptop Bag",
+        "price": 2300,
+        "mrp": 3500,
+        "discount": "34.29%",
+        "rating": 4.4,
+        "description": "A professional laptop bag with padded compartments for laptops up to 15.6 inches and organizational pockets.",
+        "image": "https://www.fgear.in/cdn/shop/files/2_322fd093-3896-4995-a574-271b124f4817.jpg?v=1735195693&width=1946",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "l2",
+        "name": "Sleek Laptop Bag",
+        "price": 2100,
+        "mrp": 3200,
+        "discount": "34.38%",
+        "rating": 4.2,
+        "description": "A slim and stylish laptop bag offering protection for your device without adding bulk.",
+        "image": "https://safaribags.com/cdn/shop/files/3_4bde5165-92cd-4305-b571-dea21fe6568e.jpg?v=1707731843",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "l3",
+        "name": "Durable Laptop Bag",
+        "price": 2400,
+        "mrp": 3700,
+        "discount": "35.14%",
+        "rating": 4.1,
+        "description": "A robust laptop bag with extra padding and secure straps to keep your laptop safe during transport.",
+        "image": "https://m.media-amazon.com/images/I/31bnvQSzp1L._SR290,290_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "l4",
+        "name": "Versatile Laptop Bag",
+        "price": 2250,
+        "mrp": 3450,
+        "discount": "34.78%",
+        "rating": 4.0,
+        "description": "An adaptable laptop bag that can be used as a briefcase or shoulder bag, with compartments for accessories.",
+        "image": "https://www.walkaroo.in/cdn/shop/files/Manaf.png?v=1740582935",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Kids Bag": [
+      {
+        "id": "k1",
+        "name": "Cute Kids Bag",
+        "price": 1500,
+        "mrp": 2300,
+        "discount": "34.78%",
+        "rating": 4.3,
+        "description": "A charming kids bag with fun designs and comfortable straps, perfect for young children.",
+        "image": "https://safaribags.com/cdn/shop/files/1_613294e2-ba36-4792-a12f-432aba5de81f_1024x.jpg?v=1707718341",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "k2",
+        "name": "Playful Kids Bag",
+        "price": 1600,
+        "mrp": 2400,
+        "discount": "33.33%",
+        "rating": 4.1,
+        "description": "A playful and colorful kids bag with easy-to-use zippers and durable material.",
+        "image": "https://safaribags.com/cdn/shop/files/2_9ae2c836-d746-4165-a9a5-3e7f06947d42_1024x.jpg?v=1707717509",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "k3",
+        "name": "Adventure Kids Bag",
+        "price": 1700,
+        "mrp": 2500,
+        "discount": "32%",
+        "rating": 4.0,
+        "description": "A sturdy kids bag designed for little adventurers, with multiple pockets for storage.",
+        "image": "https://genietravel.com/cdn/shop/files/45DegreeAngle2_22aead74-26e4-49c7-a69d-2249aa2a66a6_1200x.jpg?v=1737021699",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "k4",
+        "name": "Character Kids Bag",
+        "price": 1550,
+        "mrp": 2350,
+        "discount": "34.04%",
+        "rating": 4.2,
+        "description": "A fun kids bag featuring popular characters, making it exciting for children to carry.",
+        "image": "https://cdn.pixelbin.io/v2/black-bread-289bfa/HrdP6X/original/hamleys-product/493176084/665/493176084_1_8650.webp",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Girls Bag": [
+      {
+        "id": "g1",
+        "name": "Stylish Girls Bag",
+        "price": 1800,
+        "mrp": 2700,
+        "discount": "33.33%",
+        "rating": 4.5,
+        "description": "A fashionable girls bag with trendy designs and comfortable straps for everyday use.",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kbl4cy80/backpack/b/7/n/pu-leather-casual-backpacks-for-girls-10-l-backpack-pink-gt-original-imafswp7fkjzgjh6.jpeg?q=90&crop=false",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "g2",
+        "name": "Elegant Girls Bag",
+        "price": 1900,
+        "mrp": 2900,
+        "discount": "34.48%",
+        "rating": 4.3,
+        "description": "An elegant girls bag with a chic look, suitable for school and casual outings.",
+        "image": "https://kumbhatbazaar.com/wp-content/uploads/2024/06/re-min.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "g3",
+        "name": "Colorful Girls Bag",
+        "price": 1750,
+        "mrp": 2650,
+        "discount": "33.96%",
+        "rating": 4.1,
+        "description": "A vibrant and colorful girls bag that adds a fun touch to any outfit.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT54nPZuFCoyuQdUGxtBIBdtqxN62Bcuyt3hmyOC6i-3JvZ_5Pf46z__-DTa1AxxD2FZP4&usqp=CAU",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "g4",
+        "name": "Spacious Girls Bag",
+        "price": 1850,
+        "mrp": 2800,
+        "discount": "33.93%",
+        "rating": 4.2,
+        "description": "A roomy girls bag with multiple compartments, ideal for carrying books and other essentials.",
+        "image": "https://www.jiomart.com/images/product/original/rvt6uee6ir/jaisom-stylish-woman-and-girls-school-college-bag-10-l-backpack-maroon-product-images-rvt6uee6ir-0-202212061019.jpg?im=Resize=(1000,1000)",
+        "btn": "Add to Cart"
+      }
+    ]
+},
+
+  "notebooks & writing pads": {
+    "Short Books": [
+      {
+        "id": "sb1",
+        "name": "Adarsh Short Notebook - Ruled, 72 Pages",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://i.pinimg.com/736x/74/e2/05/74e205f33fcfe0a29ea5134f45819336.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "sb2",
+        "name": "Navneet HQ Short Book - Single Line, 72 Pages",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://www.worldone.in/cdn/shop/products/Mix_1024x1024.jpg?v=1678875822",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Long Books": [
+      {
+        "id": "lb1",
+        "name": "Adarsh Long Notebook - Ruled, 172 Pages",
+        "price": "85",
+        "mrp": "130",
+        "discount": "35%",
+        "rating": 3.5,
+        "description": "A durable, long-format notebook with ruled pages, ideal for note-taking in classes or meetings. Contains 172 pages.",
+        "image": "https://i.pinimg.com/736x/bc/96/ba/bc96ba132b60d2b3294095df5e753cf0.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "lb2",
+        "name": "Navneet HQ Long Book - Single Line, 172 Pages",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/91VmwWBlx6L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Bill Books": [
+      {
+        "id": "B1",
+        "name": "Regular Bill book A5 Size",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/613U-fxNu2L._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "B2",
+        "name": "Duplicate Book with Carbon and Index",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/61TcWtU-AtL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "B3",
+        "name": "Cashmemo Note book",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/3177YWJJITL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "B4",
+        "name": "Printed Bill Estiment Book",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/51WL-PSBv5L._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Spiral Notebooks": [
+      {
+        "id": "sp1",
+        "name": "Five Star Spiral Notebook - 1 Subject, College Ruled",
+        "price": "120",
+        "mrp": "185",
+        "discount": "35%",
+        "rating": 4.1,
+        "description": "A durable spiral notebook with one subject divider and college-ruled pages, perfect for a single course.",
+        "image": "https://media.accobrands.com/media/560-560/502240.jpg?width=680px&height=449px",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "sp2",
+        "name": "Mead Spiral Notebook - 3 Subject, Wide Ruled",
+        "price": "210",
+        "mrp": "323",
+        "discount": "35%",
+        "rating": 4.3,
+        "description": "A spiral-bound notebook with three dividers to organize notes for different subjects. Wide-ruled for comfortable writing.",
+        "image": "https://m.media-amazon.com/images/I/71H9rDqHdTL.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Composition Notebooks": [
+      {
+        "id": "cp1",
+        "name": "Oxford Composition Book - College Ruled, 100 Sheets",
+        "price": "90",
+        "mrp": "138",
+        "discount": "35%",
+        "rating": 4.0,
+        "description": "A classic composition notebook with a sewn binding and college-ruled pages. Contains 100 sheets for extensive note-taking.",
+        "image": "https://m.media-amazon.com/images/I/812lc7lYzOL.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "cp2",
+        "name": "Rhodia Compostion Book",
+        "price": "80",
+        "mrp": "123",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A durable composition book with wide-ruled pages, suitable for younger students or those who prefer larger lines.",
+        "image": "https://www.wyndhamartsupplies.com/cdn/shop/products/1140_10000_composition-book.jpg?v=1594762941",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Hardcover Notebooks": [
+      {
+        "id": "hc1",
+        "name": "Moleskine Classic Notebook - Ruled, Large",
+        "price": "850",
+        "mrp": "1308",
+        "discount": "35%",
+        "rating": 4.7,
+        "description": "A premium hardcover notebook with ruled pages, known for its quality and durability. Large size for ample writing space.",
+        "image": "https://www.jiomart.com/images/product/original/rvrj4lfino/navneet-youva-case-bound-hard-cover-long-book-single-line-a4-size-21cm-x-29-7cm-288-pages-pack-of-5-product-images-orvrj4lfino-p594523396-4-202210160106.jpg?im=Resize=(420,420)",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "hc2",
+        "name": "Leuchtturm1917 Medium Notebook - Dotted",
+        "price": "1200",
+        "mrp": "1846",
+        "discount": "35%",
+        "rating": 4.8,
+        "description": "A high-quality hardcover notebook with dotted pages, ideal for bullet journaling and precise writing. Medium size.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDKPkKIhhbWeoaxcRJ8sMOwwUy1vJxzg_HYA&s",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Sketchbooks": [
+      {
+        "id": "sk1",
+        "name": "Strathmore Sketch Pad - 9x12 Inches, 100 Sheets",
+        "price": "450",
+        "mrp": "692",
+        "discount": "35%",
+        "rating": 4.5,
+        "description": "A reliable sketch pad with 100 sheets of acid-free paper, suitable for various dry media.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBpsdRZ5gbp7vM8fZCZT4myxDU-yvxWalsw&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "sk2",
+        "name": "Canson XL Series Mix Media Pad - 9x12 Inches, 60 Sheets",
+        "price": "600",
+        "mrp": "923",
+        "discount": "35%",
+        "rating": 4.6,
+        "description": "A versatile mix media pad suitable for both wet and dry techniques. Contains 60 sheets of durable paper.",
+        "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-640,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/97b2eeb0-9f54-4a65-8e54-3253d1f92d8a/Doms-Yellow-Drawing-Book-36-Pages.jpeg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Pocket Notebooks": [
+      {
+        "id": "pk1",
+        "name": "Field Notes Original Kraft - Ruled, 3-Pack",
+        "price": "300",
+        "mrp": "461",
+        "discount": "35%",
+        "rating": 4.4,
+        "description": "A set of three pocket-sized notebooks with ruled pages and a durable kraft paper cover, perfect for on-the-go notes.",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/QQ/UW/AF/135726675/pocket-book-pvc-wiro-80-pages.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "pk2",
+        "name": "Rite in the Rain Pocket Notebook - Universal Pattern",
+        "price": "400",
+        "mrp": "615",
+        "discount": "35%",
+        "rating": 4.7,
+        "description": "A waterproof and durable pocket notebook with a universal page pattern, suitable for all weather conditions.",
+        "image": "https://buysupplies.in/cdn/shop/products/SPP-02SpiralPocketNotebooks_89a39994-ef14-48a7-bbc7-98ecb92b7875_1200x1200.jpg?v=1605081751",
+        "btn": "Add to Cart"
+      }
+    ], 
+    "Writing Pads": [
+      {
+        "id": "w1",
+        "name": "Rough Pad With lineing",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://5.imimg.com/data5/JZ/ZN/LK/SELLER-8606972/rough-pad-500x500.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "w2",
+        "name": "Plane Rough Pad",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/51+ZvKUhG8L._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "w3",
+        "name": "Smart Rough Pad",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/614cir2QNOL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ]
+  },
+
+  "pens": {
+    "Regular Pens": [
+    {
+      "id": "rgp1",
+      "name": "Field Notes Original Kraft Notebook (3-Pack)",
+      "price": "310",
+      "mrp": "477",
+      "discount": "35%",
+      "rating": 4.5,
+      "description": "These ruled Field Notes pocket notebooks are perfect for everyday writing with regular pens. Comes in a 3-pack.",
+      "image": "https://m.media-amazon.com/images/I/61ZoXDWQTxL._AC_UL480_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rgp2",
+      "name": "Rite in the Rain All-Weather Pocket Notebook",
+      "price": "415",
+      "mrp": "638",
+      "discount": "35%",
+      "rating": 4.8,
+      "description": "Write anywhere with this durable, waterproof Rite in the Rain pocket notebook, ideal for regular pens.",
+      "image": "https://m.media-amazon.com/images/I/51OtDAwuquL._AC_UL480_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rgp3",
+      "name": "Rite in the Rain All-Weather Pocket Notebook",
+      "price": "405",
+      "mrp": "623",
+      "discount": "35%",
+      "rating": 4.7,
+      "description": "This Rite in the Rain pocket notebook with a universal pattern is great for taking notes in any weather with a regular pen.",
+      "image": "https://m.media-amazon.com/images/I/8124ZXp3nkL._AC_UL480_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rgp4",
+      "name": "Rite in the Rain All-Weather Pocket Notebook",
+      "price": "420",
+      "mrp": "646",
+      "discount": "35%",
+      "rating": 4.8,
+      "description": "A reliable and waterproof pocket notebook from Rite in the Rain, perfect for use with regular pens in all conditions.",
+      "image": "https://m.media-amazon.com/images/I/51xvbsAN5bL._AC_UL480_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rgp5",
+      "name": "Rite in the Rain All-Weather Pocket Notebook",
+      "price": "410",
+      "mrp": "631",
+      "discount": "35%",
+      "rating": 4.7,
+      "description": "Carry this durable and weather-resistant Rite in the Rain pocket notebook for your regular pen notes on the go.",
+      "image": "https://m.media-amazon.com/images/I/51KzMmJUVpL._AC_UL480_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    }
+  ],
+   "Ballpoint Pens": [
+    {
+      "id": "bp1",
+      "name": "Ballpoint Pens",
+      "price": "125",
+      "mrp": "190",
+      "discount": "35%",
+      "rating": 4.2,
+      "description": "Organize one subject with this durable college-ruled spiral notebook from Five Star.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLSujbsiNJhNlIp34NcydAlSeIfBxD1DlffueU5-phnXsL1Be_DqI9k1Gb36EGeP_yzNLMGWIBQ4ysX_RFKbVOAf7VVGWGPvkKbbL-z6CsdxiPsx7V7dKm",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "bp2",
+      "name": "Ballpoint Pens",
+      "price": "215",
+      "mrp": "330",
+      "discount": "35%",
+      "rating": 4.4,
+      "description": "Keep notes for three different subjects organized in this wide-ruled spiral notebook by Mead.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSeNcodWsyI707UxzhVLVDEWpWKpxGCek9tzmocS1Pn15ejctyTkFvjmng_-2YVAN1q2qtYPmy_OCbT8So1Jpp25FWlkkf3E656kvz0X3aFwa935NFhwPBd",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "bp3",
+      "name": "Ballpoint Pens",
+      "price": "200",
+      "mrp": "310",
+      "discount": "35%",
+      "rating": 4.1,
+      "description": "This Mead spiral notebook with three sections and wide-ruled pages is perfect for detailed note-taking.",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMHBhUIBxITFhIVFhkaFxUXGR8YFRsWIBkdGh4bFh4gIjQgIiAxIBoYIjEhJSkrLjo6HSs4QDMsNzQwMCsBCgoKDg0OGhAQGjclHyUtLS0rLSstLSstLy0rLS0tLS01Ny0tLS0rLS8tLTgvLy0tLS0tLS0tKzgyMSsvLSsrL//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAABgcDBQIECAH/xAA9EAACAQMBBQQIBAQFBQAAAAAAAQIDBBEFBhIhMUEiUWFxBxMUMkJSgZEVI6GxM2JyghYkQ8HwNFPR4fH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACARAQEBAQACAgIDAAAAAAAAAAABAhEDITFBEvAiYdH/2gAMAwEAAhEDEQA/ALxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADFc1421F1azwl/zC8QMp1b689mShBb1SXux5ebb6JcOJp9avKlHTampXtT2ehTi5NKO/Va6Z44TfBKPF8VyIRHb5WGm07rX4bterD/Ty3u8XFSi2+eej69MnHe9c/jG5M99136u3d7oGtyt9qLanK2cqajcWyl6umpSazWcnzxh4wvrlFlEGt5RvdOp2UJQqO5l25x4wmn/ABPLEFJJP5UssnJPB5LuezyYmb6AAd2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfBZZr7en7bce2Vfdj/Dj0/rfj3GTUH6zFpDnPn4QXN/7fUj/pB2hegaPG103/qq/wCXQiuceSc8d0U1jplpGfmr8RF9utXWv6xLT4vNlZPertcqldcqflHjnxzycUVVqOoPWdaleVfdjwj3Z/8AnA3O0s3YaZHQtPb7PaqTz79R+823zxx8eBp9n9InqOoUtKtPfqyUU+eOrk/JKUn5Ejjb1a/oT0iUbWrrVw3uzbhSj04PE5peLSh/Yy0Tq6ZYQ0vT6dhaLFOnBRivBLHHx6tnaNSOkAAVQAAAAAAAAAAAAAAAAAAAAAAAAAAADqai3Okral71Thnuj8T+36tEt4MFG4jSo1dWu5KNNJvefBRpQy95/rLywU5qeuy1C9q7U3SacvyrSm+cYJtZx38XnxbXREr9JOqe3XUNk9OeI9mdw18MFhxh+0mv6VykVvtFdQrXKVPeUKUWox3W0uMYxXFYzjebTf3Rn+mNVrLuo6Ud2rxm+Mm854vOP3/4y0fQps76uhPaG6XanmnRz8ifbl9ZJR/sfeVjs9pM9oNdp6bbcHUl2pLlCPOUvpHOM9cLqem7G0hYWULO0io06cVGMVyUUsJFkTE+2cAGnQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcalRUo71RpLxI7q20NPTdDqbQZjNNbtFJ8JPOEk/GSbb6JZ6Gx2gt69xYtaU4es44320vpJZw/HD58nydJ29Kbv6sdRlS9mt6s6u5STVD1kkk408pZWYtZxyUvny+duvy5z0t5M9+326u3p9o5XmZ3V3JyqdJYfFJ9UsvLS5Lh0RE7yvJw3Km658VJri3hrCzy5pvhj6nevb93dzLUbjjKUvy+L4Y6+Rm2I2de0+0ULJp+qXaqy48Ka58e95UV17TfQsjhfd4s30L7Nfh+kPW7lfmXCxT8KOcpr+p9ryUSyTjTgqcFCmkklhJcEl3I5G3WTgAAoAAAAAAAAAAAAAAAAAAAAAAAAAAABjuKyt6Eq9V4jFNt+CWWBGPSHr70jSVaWbftFfMIJe8lycl48VFeMk+jKX2tvlpllHR7ZptcajXWo+nkuCXgkWPr9rUnc1de1OlJtLFF0szqU48V26beJbuW3uvnKXHginLywnWc9RjL1tBTx66Od3efzp9qD44xJLrjPM5zc1WdSz5denUlOmnWlnCws8kuf24s9Cei3Zn/D+z6rXEcV6+Jzyu1GPwQfkm213ykVj6Ldmvx/X1XuI/kUMTn3N57EPq1l+EWnzPQJuJifYACtgAAAAAAAAAAAAAAAAAAAAAAAAAAAAARP0halTtrKlp9ZSk69RJ04S3ZuC6p9Epbnn5ZJTWqxoUZVqzSjFNyb5JJZbf0KR2i193dxV2hrcN7NO2i+cYLKcvPi/q5dMEvxxLeNnrOvVqVaNls1Wjcxxueokm7qm4xbdTPxpJPjLhnCTyzFG2tNTsJXmgydCvTjiot3EsJYcLmlL3s4ay+bxzxgq61uZwu/baMpRqJ5jKLakvFPmXfsFos9chQ2m16FP1sU9yUY7s6kVwjOrjstLDcVj5ZLB5teC/l2fv+umfJOcqVbH6FHZ/RY20YwjUk9+ruZ3fWSxlRzx3UkorwijdgHqYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6esalDSNMnf3XuwjnHVvkorxbwl5gQ/0las6rhs7ZyxKp2q0l8FJcePnjP0S+IpfafUVf36t7bhSppRiv5Vw/UkG0OrSo2dS/u3/mLt7z/lpfDFefD6JLoQulHrLm+ZGEj2F2ce0u0ELNp+qj2qsl0guaT73lRXnnoz0lSpqjSVKkkoxSSS4JJcEkRT0abM/4c2fTrxxXrYnUzzXywfkm8+LZLitSAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVj6QdXjqmrfhef8tbduu+kp9If7fWXVIme2GurZ/RJXUeNSXZpR55qPlw644vHhgonam8dhZLTYyzVm9+s85bqPjhvrjv8AN9SVK0es38tW1OVxU5Z5fsiaeiPZj8Z1r8Ruo5o27T8JVecY/T3n5LoyD6bYzvLmFnaxcpzkopd8m8fv1PTey2iQ2e0OnptDD3VmUvmm/el9+XckkEjbAArQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEX9IGsvTdH9ks/49w/V00uDSfvS8MJpZ6OSYEH2v15ajrFTUW829rmFFdJ1nzl+z8lF95VNau727ldVXnLf/tm62tvFGUNIs32Kaw33y+KX3OGyOgT2h1unp1vwT4zl8tNe9L/AMeLS6kYWL6FtmOe0N5HvhRz9pzX6wX93gW0YLK0hY2cLS1io04RUYxXRJYRnK1AABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbwsspLa3aL2y8ra5nsRzRte7CzvVF55fH+ZroWZtxUrS0OVjpSzWrdnnhqnynL7PHDj2igdrrj1moLTqScadFKO61h/3J9W+LM9neJWkp5qTdafN/sehvRdsr/h7RPaLqOLiulKeecY/DDz45fi8dEV76I9k/wAY1X8VvI/kUGsJ8p1eaXkuEn9OabL2KkgACtAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAdbUK7t7Rzp+9yj/AFPgv1ZLeTo0Os6irdVb+WXu/lU0ubecPdz8Tk93x4EavNlKWr2sbS+gpXVRuTqx4SjJ8+PyRWFh9EurR36s1c3y3Mulb4hBc9+tyyu/GfvLviSzR9P9kpOrX41Z+8+iXSK8F+r+iXh8cvk8n5PVrmMcc9F0unoumQ06xWIQWF3t83J+LeW/M7wB73lAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACPbU3rpYo0fffuZ5b0k1veUYqbfn3khNLqWhe3al7ZKayo7qi1lJdc8eOeH2MeTN1nkaxZL2sGzOlKjSjcTXBL8tPnx51JfzSy/v48JCat2df/vfpg+eyV1/qZ+oxiYzyGtXV7W1BqvZq3WX6nz1FVc8/c2y22T5k1Pqqi7z56up4gbfIyalRmu8z0d7qBsAcYe7xOQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "bp4",
+      "name": "Ballpoint Pens",
+      "price": "225",
+      "mrp": "345",
+      "discount": "35%",
+      "rating": 4.5,
+      "description": "This wide-ruled, 3-subject spiral notebook from Mead is great for organizing multiple classes or projects.",
+      "image": "https://topperskit.com/cdn/shop/files/7_5789b9b2-a851-4328-9825-73187f28fe88.jpg?v=1723019600",
+      "btn": "Add to Cart"
+    }
+  ],
+  "Fountain Pens": [
+    {
+      "id": "fp1",
+      "name": "Conway Stewart Series 100 Commander Fountain Pen",
+      "price": "95",
+      "mrp": "145",
+      "discount": "35%",
+      "rating": 4.1,
+      "description": "A reliable Oxford composition book with college-ruled pages, ideal for detailed note-taking with fountain pens.",
+      "image": "https://conwaystewart.in/cdn/shop/files/conway-stewart-series-100-commander-conway-stewart-1.jpg?v=1689609626",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "fp2",
+      "name": "Parker IM Black GT Fountain Pen with Fine Nib",
+      "price": "85",
+      "mrp": "130",
+      "discount": "35%",
+      "rating": 3.9,
+      "description": "A durable Rhodia composition book with a smooth surface perfect for fountain pen use. Wide-ruled for comfortable writing.",
+      "image": "https://www.onlinemantra.in/cdn/shop/products/PRP_51_BLK_GT_FP_F_9000034622_1024x1024.jpg?v=1734530089",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "fp3",
+      "name": "Luxor Ink Glide Black & Blue Fountain Pen",
+      "price": "90",
+      "mrp": "138",
+      "discount": "35%",
+      "rating": 4.0,
+      "description": "Experience smooth writing with your fountain pen on the quality paper of this Rhodia composition book.",
+      "image": "https://kundantraders.co.in/cdn/shop/products/LUXORInkGlideBlackBlueIridiumTipTrendyFountainPen_2048x.jpg?v=1666261320",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "fp4",
+      "name": "V-Book Premium Fountain Pen",
+      "price": "88",
+      "mrp": "135",
+      "discount": "35%",
+      "rating": 4.0,
+      "description": "This Rhodia composition book offers a great writing experience with fountain pens, featuring durable construction.",
+      "image": "https://thevbooks.com/cdn/shop/files/images-_11.jpg?v=1718202659",
+      "btn": "Add to Cart"
+    }
+  ],
+  "Roller Pens": [
+    {
+      "id": "rp2",
+      "name": "Pilot Precise V5 Rollerball Pen",
+      "price": "1250",
+      "mrp": "1923",
+      "discount": "35%",
+      "rating": 4.9,
+      "description": "Perfect for rollerball pens, this medium Leuchtturm1917 notebook features dotted pages for versatile use.",
+      "image": "https://m.media-amazon.com/images/I/714hFrfjtZL._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rp3",
+      "name": "Pilot G2 Premium Refillable Gel Roller Pen",
+      "price": "1230",
+      "mrp": "1892",
+      "discount": "35%",
+      "rating": 4.8,
+      "description": "Experience excellent rollerball writing on the dotted pages of this medium Leuchtturm1917 notebook.",
+      "image": "https://m.media-amazon.com/images/I/71Hb9cHuP0L._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "rp4",
+      "name": "Sharpie S-Gel Pen",
+      "price": "1280",
+      "mrp": "1969",
+      "discount": "35%",
+      "rating": 4.9,
+      "description": "This medium-sized Leuchtturm1917 dotted notebook is ideal for journaling with your favorite rollerball pen.",
+      "image": "https://m.media-amazon.com/images/I/5154h340muL._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    }
+  ],
+  "Gel Pens": [
+    {
+      "id": "gp1",
+      "name": "Pilot G2 Premium Refillable Gel Pen",
+      "price": "465",
+      "mrp": "715",
+      "discount": "35%",
+      "rating": 4.6,
+      "description": "The smooth paper of this Strathmore sketch pad is also suitable for gel pens, offering 100 acid-free sheets.",
+      "image": "https://m.media-amazon.com/images/I/81ktKdOb1MS._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "gp2",
+      "name": "Pilot G2 Premium Refillable Gel Pen",
+      "price": "620",
+      "mrp": "954",
+      "discount": "35%",
+      "rating": 4.7,
+      "description": "Gel pens glide smoothly on the durable mix media paper of this 60-sheet Canson XL pad.",
+      "image": "https://m.media-amazon.com/images/I/715y5kOJGyL._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "gp3",
+      "name": "Pilot G2 Premium Refillable Gel Pen",
+      "price": "610",
+      "mrp": "938",
+      "discount": "35%",
+      "rating": 4.6,
+      "description": "Experiment with gel pens on the versatile surface of this 60-sheet Canson XL mix media pad.",
+      "image": "https://m.media-amazon.com/images/I/61lxQEvqS5L._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    },
+    {
+      "id": "gp4",
+      "name": "Pilot G2 Premium Refillable Gel Pen",
+      "price": "630",
+      "mrp": "969",
+      "discount": "35%",
+      "rating": 4.7,
+      "description": "This Canson XL mix media pad with 60 sheets is excellent for various techniques, including gel pen artwork.",
+      "image": "https://m.media-amazon.com/images/I/71YVv36PG6L._AC_UY327_FMwebp_QL65_.jpg",
+      "btn": "Add to Cart"
+    }
+  ]
+  },
+
+  "pencils" : {
+    "Regular Pencils": [
+      {
+        "id": "rpn1",
+        "name": "Regular Pencils",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://www.jiomart.com/images/product/original/rvmtcvxd6m/apsara-platinum-pencils-hexagonal-body-for-strong-grip-extra-dark-easy-sharpening-free-sharpener-eraser-non-toxic-use-for-school-college-students-office-person-pack-of-3-product-images-orvmtcvxd6m-p610787857-2-202412230919.jpg?im=Resize=(420,420)",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "rpn2",
+        "name": "Regular Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/71ZhmUmGQeL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "rpn3",
+        "name": "Regular Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/71g9ntCnpYL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "rpn4",
+        "name": "Regular Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/611bpofZ2lS._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Graphite Pencils": [
+      {
+        "id": "grpn1",
+        "name": "Graphite Pencils",
+        "price": "85",
+        "mrp": "130",
+        "discount": "35%",
+        "rating": 3.5,
+        "description": "A durable, long-format notebook with ruled pages, ideal for note-taking in classes or meetings. Contains 172 pages.",
+        "image": "https://m.media-amazon.com/images/I/717Id5xLVjL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "grpn2",
+        "name": "Graphite Pencils",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/71pwV+xhDXL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Mechanical Pencils:": [
+      {
+        "id": "mp1",
+        "name": "Mechanical Pencils",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/614StYP7jEL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "mp2",
+        "name": "Mechanical Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/71LJ+EZL-2L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "White  Pencils": [
+      {
+        "id": "wp1",
+        "name": "White  Pencils",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/610TY-9t4LL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "wp2",
+        "name": "White  Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/61n7eUx+K9L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Lid  Pencils": [
+      {
+        "id": "lp1",
+        "name": "Lid  Pencils",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/416nrTreMCL._AC_UF1000,1000_QL80_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "lp2",
+        "name": "Lid  Pencils",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/61l-LvO5TqL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ]
+  },
+
+  "art & craft" : {
+    "Colorful Paper": [
+      {
+        "id": "clp1",
+        "name": "Colorful Paper",
+        "price": "85",
+        "mrp": "130",
+        "discount": "35%",
+        "rating": 3.5,
+        "description": "A durable, long-format notebook with ruled pages, ideal for note-taking in classes or meetings. Contains 172 pages.",
+        "image": "https://m.media-amazon.com/images/I/61nVdQzDoAL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "clp2",
+        "name": "Colorful Paper",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/71cm-Q8xHJS._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "clp3",
+        "name": "Colorful Paper",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://helloaugust.in/wp-content/uploads/2020/04/origami-colour-paper.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "clp4",
+        "name": "Colorful Paper",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/51HJI8QVfFL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Cutters": [
+      {
+        "id": "ctr1",
+        "name": "Cutter ",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71wMTwJJuQL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "ctr2",
+        "name": "Scissors",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/51iyNgQ4bqL._SY450_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "ctr3",
+        "name": "Designing  Scissors",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/515MoY7FExL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+      
+    ],
+    "Stickers": [
+      {
+        "id": "str1",
+        "name": "Diamond Sticker",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://djl2kq23xfhqi.cloudfront.net/productimages/AXAB-10MM.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "str2",
+        "name": "Stickers",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAOqhKiwCAw6SqsfTVM5p8xIl7-0yHD8VXQ&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "str3",
+        "name": "Stickers",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/81DPztfOjcL._AC_UF894,1000_QL80_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "str4",
+        "name": "Stickers",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/keykscw0/art-craft-kit/g/t/p/multi-shaped-craft-stone-sticker-pack-of-2-for-art-craft-original-imafvgfm26e5whfh.jpeg?q=20&crop=false",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Drawing Items": [
+      {
+        "id": "di1",
+        "name": "Brushes",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71IxK4f+kTL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "di2",
+        "name": "Highlighter",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/71NwpaqnP2L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "di3",
+        "name": "Black Marker",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/41GNnKsVhEL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "di4",
+        "name": "Compass Kit",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT5xaYAs3KQC9TYc5N-miXY6PG1QbL2aQXmQ_eC4kDqPx1ca3HeGwiTUTDjEF2N4ILMo&usqp=CAU",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Gums": [
+      {
+        "id": "gm1",
+        "name": "Glue gun",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/311ug-j83RL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "gm2",
+        "name": "Fevi Stick",
+        "price": "50",
+        "mrp": "₹ 77",
+        "discount": "35%",
+        "rating": 3.7,
+        "description": "A handy short notebook by Navneet HQ with single-line ruling, perfect for carrying around. Features 72 pages of quality paper.",
+        "image": "https://m.media-amazon.com/images/I/51kxrVIfBHL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "gm3",
+        "name" : "Fevi Bond",
+        "price" : 125,
+        "image" : "https://m.media-amazon.com/images/I/51lCQVZwz5L._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+      },
+      {
+          "id" : "gm4",
+          "name" : "Fevi Kwik",
+          "price" : 25,
+          "image" : "https://m.media-amazon.com/images/I/51+Af-CAtKL._AC_UL480_FMwebp_QL65_.jpg",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart" 
+      },
+      {
+            "id" : "gm5",
+            "name" : "Fevicryl",
+            "price" : 25,
+            "image" : "https://m.media-amazon.com/images/I/81zdeTxqkLL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+      },
+      {
+              "id" : "gm6",
+              "name" : "Fevicol",
+              "price" : 25,
+              "image" : "https://m.media-amazon.com/images/I/51X1RG-7WmL._AC_UL480_FMwebp_QL65_.jpg",
+              "rating": 3.4,
+              "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+              "btn": "Add to Cart" 
+      }   
+    ],
+    "Clays" : [
+      {
+        "id": "c1",
+        "name": "Clays",
+        "price": "145",
+        "mrp": "469",
+        "discount": "75%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81j8uk4iVDL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "c2",
+        "name": "Clays",
+        "price": "175",
+        "mrp": "469",
+        "discount": "75%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71UbPO3ZT+L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "c3",
+        "name": "Clays",
+        "price": "175",
+        "mrp": "469",
+        "discount": "75%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71d5vu0LJLL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Decorative Taps" : [
+        {
+          "id": "dt1",
+          "name": "Decorative Taps",
+          "price": 249,
+          "mrp": 500,
+          "discount": "50%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "image": "https://m.media-amazon.com/images/I/71pNhBd9QML._AC_UL480_FMwebp_QL65_.jpg",
+          "btn": "Add to Cart"
+        },
+        {
+          "id": "dt2",
+          "name": "Decorative Taps",
+          "price": 195,
+          "mrp": 500,
+          "discount": "61%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "image": "https://m.media-amazon.com/images/I/61LXZ59U+tL._AC_UL480_FMwebp_QL65_.jpg",
+          "btn": "Add to Cart"
+        },
+        {
+          "id": "dt3",
+          "name": "Decorative Taps",
+          "price": 195,
+          "mrp": 500,
+          "discount": "61%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "image": "https://m.media-amazon.com/images/I/418nD0c0D-L._AC_UL480_FMwebp_QL65_.jpg",
+          "btn": "Add to Cart"
+        }
+      
+    ],
+    "Gift Papers" : [
+      {
+        "id": "gft1",
+        "name": "Gift Paper",
+        "price": "250",
+        "mrp": "300",
+        "discount": "15%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/91UCdDD8UgL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "gft2",
+        "name": "Gift Paper",
+        "price": "300",
+        "mrp": "500",
+        "discount": "45%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81bpxYlwWzL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ]
+  },
+  
+  "colors" : {
+    "Pencils Colors" : [
+      {
+        "id": "pc1",
+        "name": "Doms Pencil Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/716FcwG7M7S._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "pc2",
+        "name": "Doms Pencil Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61iEs2VT12L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "pc3",
+        "name": "Doms Pencil Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/611cMJJi4GL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "pc4",
+        "name": "Doms Pencil Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMhjAyEHsySjYF1YZ_ptLLeUhh0tlQgiP9ZPx2JJrxcrRQjxDPV-TLhDFs7hDZzbDhYY&usqp=CAU",
+        "btn": "Add to Cart"
+      }
+
+
+    ],
+    "Oil pastel Colors" : [
+      {
+        "id": "op1",
+        "name": "Doms Oil pastel Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81oGXneknmL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "op2",
+        "name": "Doms Oil pastel Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTVSTHKEBpudBym2lAU0Zz51bp7d5MSdDoQ&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "op3",
+        "name": "Doms Oil pastel Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/8189xLkCWXL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "op4",
+        "name": "Doms Oil pastel Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/617mWawAC8S._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+
+
+    ],
+    "Poster Colors" : [
+      {
+        "id": "poc1",
+        "name": "Poster Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71yaDKSOi9L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "poc2",
+        "name": "Poster Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71qGuNMBfUL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "poc3",
+        "name": "Poster Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61CzfRou-XL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "poc4",
+        "name": "Poster Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/51CMczSrR8L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+
+
+    ],
+    "Water Colors" : [
+      {
+        "id": "wtr1",
+        "name": "Water Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ggcxoTA_cTTnIYnNMYnedEW-Llaa3LKuNw&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "wtr2",
+        "name": "Water Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://www.shaanstationery.com/image/cache/catalog/doms/doms-water-colour-cakes-12-shades-30mm-1000x1000.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "wtr3",
+        "name": "Water Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7V2VR-u4Llle3Jycq63xSrBTJqkkPC6H6sMXGOeSj2tCuH_zeywBl29iaqNiAKGmPCbI&usqp=CAU",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "wtr4",
+        "name": "Water Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu_YURM0HB_o1GDR7-pu1EIsuyhQ-3tc-G4Q&s",
+        "btn": "Add to Cart"
+      }
+
+
+    ],
+    "Sketch Colors" : [
+      {
+        "id": "spc1",
+        "name": "Sketch Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROwtMkR9fXVOMN_S10cIm-F7CGdTlOcwnPcQ&s",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "spc2",
+        "name": "Sketch Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81XeaSXczEL.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "spc3",
+        "name": "Sketch Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61f-27map0S._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "spc4",
+        "name": "Sketch Colors",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71qF0M9WdNL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+
+
+    ]
+  },
+
+  "papers" : {
+    "A4 Size" : [
+      {
+        "id": "a41",
+        "name": "A4 NR Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61ixoSrgWjL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "a42",
+        "name": "A4 Century Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81mbPAgfMKL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "a43",
+        "name": "A4 alpha power Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61fMDbRAX8L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "a44",
+        "name": "A4 B2B Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/61SalnQyd7L._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+
+
+    ],
+    "A3 size" : [
+      {
+        "id": "a31",
+        "name": "A3 JK Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/91rBfyyGcbL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "a32",
+        "name": "A3 Cubic Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71s1wLUWxcL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "a33",
+        "name": "A3 B2B Copy Paper",
+        "price": "45",
+        "mrp": "69",
+        "discount": "35%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81UvpBXi8nL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Colourful Papers" : [
+      {
+        "id": "cfp1",
+        "name": "Colourful Papers",
+        "price": "85",
+        "mrp": "130",
+        "discount": "35%",
+        "rating": 3.5,
+        "description": "A durable, long-format notebook with ruled pages, ideal for note-taking in classes or meetings. Contains 172 pages.",
+        "image": "https://m.media-amazon.com/images/I/61nVdQzDoAL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "cfp2",
+        "name": "Colourful Papers",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/71cm-Q8xHJS._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "cfp3",
+        "name": "Colourful Papers",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://helloaugust.in/wp-content/uploads/2020/04/origami-colour-paper.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "cfp4",
+        "name": "Colourful Papers",
+        "price": "95",
+        "mrp": "146",
+        "discount": "35%",
+        "rating": 3.8,
+        "description": "A quality long notebook from Navneet HQ with single-line ruling, perfect for students and professionals. Features 172 pages of smooth paper.",
+        "image": "https://m.media-amazon.com/images/I/51HJI8QVfFL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Gift Papers" : [
+      {
+        "id": "gftp1",
+        "name": "Gift Paper",
+        "price": "250",
+        "mrp": "300",
+        "discount": "15%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/91UCdDD8UgL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "gftp2",
+        "name": "Gift Paper",
+        "price": "300",
+        "mrp": "500",
+        "discount": "45%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81bpxYlwWzL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ]
+
+  },
+
+  "office supplies" : {
+    "Files and Folders" : [
+      {
+      "id" : "ff1",
+      "name" : "Happy Cobra Spring File, Office Files, File Folders For Office, Schools, Colleges And Home Documents (Pack Of 10), Multicolored",
+      "price" : 275,
+      "mrp" : 399,
+      "image" : "https://m.media-amazon.com/images/I/71rxh-zoXUL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "31%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "ff2",
+      "name" : "SPS File Folder, Transparent Poly-Plastic A4/Foolscap Documents File Storage Bag with Snap Button Set of 5/Certificate File Folder",
+      "price" : 275,
+      "mrp" : 399,
+      "image" : "https://m.media-amazon.com/images/I/71Pb9obCFYL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "31%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "ff3",
+      "name" : "G 1 Report File, Project File with Plastic Clipboard, Document Organizer, A4 Size, Multi-Coloured, Pack of 10",
+      "price" : 400,
+      "mrp" : 500,
+      "image" : "https://m.media-amazon.com/images/I/61trYaVbOoL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "20%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    }
+    ,{
+      "id" : "ff4",
+      "name" : "ECLET Leather Multipurpose Professional File Folders for Certificates, Documents Holder, Document Bag, Portfolio, Executive File Legal Size Documents Holder with 20 Sleeves",
+      "price" : 189,
+      "mrp" : 399,
+      "image" : "https://m.media-amazon.com/images/I/71FNuWSVuoL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "62%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "ff5",
+      "name" : "SNDIA 6 Pack Spring Files File A4 Size Paper Cobra File Document Holder Certificates Holder- Color May Vary (35 x 26 x 3.5 cm)",
+      "price" : 275,
+      "mrp" : 399,
+      "image" : "https://m.media-amazon.com/images/I/819S0i8SJ0L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "31%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "ff6",
+      "name" : "AMINIT Office Lever Arch Clip Binder Box File Folder Index Cover Best for A4 Size Documents Style Pack of 4 (Assorted)",
+      "price" : 275,
+      "mrp" : 399,
+      "image" : "https://m.media-amazon.com/images/I/81rkCZPfWWL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "31%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    }
+],
+    "Stand Pen" : [
+      {
+        "id" : "stdp1",
+        "name" : "Stationary Storage Stand Pen",
+        "price" : 292,
+        "mrp" : 999,
+        "image" : "https://m.media-amazon.com/images/I/71YFLwN0-TS._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "71%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "stdp2",
+        "name" : "Stationary Storage Stand Pen",
+        "price" : 168,
+        "mrp" : 175,
+        "image" : "https://m.media-amazon.com/images/I/71nbSauhdtL._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "74%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Scissors  " : [
+      {
+        "id" : "ss1",
+        "name" : "Scissors set",
+        "price" : 256,
+        "mrp" : 128.25,
+        "image" : "https://m.media-amazon.com/images/I/51XkoSChKFL._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "10%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "ss2",
+        "name" : "Multipurpose Scissors",
+        "price" : 108,
+        "mrp" : 135,
+        "image" : "https://m.media-amazon.com/images/I/51iyNgQ4bqL._AC_UF480,480_SR480,480_.jpg",
+        "discount" : "20%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Office Bag": [
+      {
+        "id": "Off1",
+        "name": "Professional Office Bag",
+        "price": 4200,
+        "mrp": 6500,
+        "discount": "35.38%",
+        "rating": 4.3,
+        "description": "A sophisticated office bag with dedicated laptop and tablet sleeves, plus organizational pockets for documents and accessories.",
+        "image": "https://m.media-amazon.com/images/I/51fy+bEmViL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "Off2",
+        "name": "Sleek Office Bag",
+        "price": 1500,
+        "mrp": 2300,
+        "discount": "34.78%",
+        "rating": 4.1,
+        "description": "A compact and stylish office bag perfect for carrying essentials like a laptop, files, and stationery.",
+        "image": "https://m.media-amazon.com/images/I/81bOvpkxaJL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "Off3",
+        "name": "Executive Office Bag",
+        "price": 1700,
+        "mrp": 2600,
+        "discount": "34.62%",
+        "rating": 4.0,
+        "description": "A high-quality office bag with a professional look, offering ample space and durable construction.",
+        "image": "https://m.media-amazon.com/images/I/81bwK5EdeCL._AC_UL480_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+    ],
+    "Input and Output Devices   " : [
+      {
+        "id" : "io1",
+        "name" : "Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key",
+        "price" : 249,
+        "mrp" : 399,
+        "image" : "https://m.media-amazon.com/images/I/71E0VC4P5KL._AC_UY327_FMwebp_QL65_.jpg",
+        "discount" : "38%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "io2",
+        "name" : "Zebronics Zeb-Power Wired USB Mouse, 3-Button, 1200 DPI Optical Sensor, Plug & Play, for Windows/Mac",
+        "price" : 139,
+        "mrp" : 249,
+        "image" : "https://m.media-amazon.com/images/I/71m8Yf1A8eL._AC_UY327_FMwebp_QL65_.jpg",
+        "discount" : "44%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "io3",
+        "name" : "SanDisk Cruzer Blade 128GB, USB 2.0, Flash Drive, Pendrive, Red, 5Y Warranty (SDCZ50-128G-I35)",
+        "price" : 718,
+        "mrp" : 2200,
+        "image" : "https://m.media-amazon.com/images/I/61sFaDqQH8L._AC_UY327_FMwebp_QL65_.jpg",
+        "discount" : "67%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+        "id" : "io4",
+        "name" : "SanDisk Ultra Dual Drive Luxe Type-C 256GB, OTG, Upto 400MB/S, usb2.0 Pendrive, Silver, 5Y Warranty (SDDDC4-256G-I35)",
+        "price" : 2049,
+        "mrp" : 3500,
+        "image" : "https://m.media-amazon.com/images/I/51cBP0cdI-L._AC_UY327_FMwebp_QL65_.jpg",
+        "discount" : "40%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      }  
+    ],
+    "Calculator"  : [
+      {
+       "id" : "cc1",
+        "name" : "deli W39231B GTM Basic Financial Calculator with Steps Check and Correct Function | 3 Years Warranty - Black",
+        "price" : 395,
+        "image" : "https://m.media-amazon.com/images/I/81uDHNxkV8L._AC_UY327_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+      },
+      {
+        "id" : "cc2",
+         "name" : "deli W39231B GTM Basic Financial Calculator with Steps Check and Correct Function | 3 Years Warranty - Black",
+         "price" : 395,
+         "image" : "https://m.media-amazon.com/images/I/619DQu50Y5L._AC_UY327_FMwebp_QL65_.jpg",
+         "rating": 3.4,
+         "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+         "btn": "Add to Cart" 
+       },
+       {
+        "id" : "cc3",
+         "name" : "deli W39231B GTM Basic Financial Calculator with Steps Check and Correct Function | 3 Years Warranty - Black",
+         "price" : 395,
+         "image" : "https://m.media-amazon.com/images/I/71zgF55LGdL._AC_UY327_FMwebp_QL65_.jpg",
+         "rating": 3.4,
+         "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+         "btn": "Add to Cart" 
+       }
+    ],
+    "Steplers and Punch" : [
+    {
+      "id" : "stp1",
+        "name" : "Kangaro HP-45 Desk Essentials All Metal Stapler| With 4 Packet of 24/6 Pins | Sturdy & Durable | Suitable for 30 Sheets | Perfect for Home, School & Office | Pack of 1 | Color May Vary",
+        "price" : 375,
+        "mrp" : 435,
+        "image" : "https://m.media-amazon.com/images/I/81Hpx+HYXzL._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "14%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+    },
+    {
+        "id" : "stp2",
+          "name" : "Kangaro HP-45 Desk Essentials All Metal Stapler| With 4 Packet of 24/6 Pins | Sturdy & Durable | Suitable for 30 Sheets | Perfect for Home, School & Office | Pack of 1 | Color May Vary",
+          "price" : 100,
+          "image" : "https://m.media-amazon.com/images/I/61sK3TkVoZL._AC_UL480_FMwebp_QL65_.jpg",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+    },
+     {
+          "id" : "stp3",
+            "name" : "Kangaro HP-45 Desk Essentials All Metal Stapler| With 4 Packet of 24/6 Pins | Sturdy & Durable | Suitable for 30 Sheets | Perfect for Home, School & Office | Pack of 1 | Color May Vary",
+            "price" : 249,
+            "mrp" : 399,
+            "image" : "https://m.media-amazon.com/images/I/81Hpx+HYXzL._AC_UL480_FMwebp_QL65_.jpg",
+            "discount" : "38%",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart"
+     },
+     {
+      "id" : "stp4",
+        "name" : "Kangaro Desk Essentials DP-280 2 Hole Metal Classic Mini Paper Punch | Removable Chip Tray | 11 Sheets Capacity | Office Essentials | Pack of 1 | Color May Vary",
+        "price" : 130,
+        "image" : "https://m.media-amazon.com/images/I/41aOboJjoKL._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+    }
+    ]
+  },
+
+  "school essentials" : {
+  "Water bottels" : [
+      {
+      "id" : "wb1",
+      "name" : "MILTON Water Bottel",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/71zc9WEmLVL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+      },
+      {
+        "id" : "wb2",
+        "name" : "MILTON Water Bottel",
+        "price" : 292,
+        "mrp" : 999,
+        "image" : "https://m.media-amazon.com/images/I/61og-nCimKL._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "71%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+      },
+      {
+          "id" : "wb3",
+          "name" : "MILTON Water Bottel",
+          "price" : 292,
+          "mrp" : 999,
+          "image" : "https://m.media-amazon.com/images/I/41GC5Z0FrhL._AC_UL480_FMwebp_QL65_.jpg",
+          "discount" : "71%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+      },
+      {
+            "id" : "wb4",
+            "name" : "MILTON Water Bottel",
+            "price" : 292,
+            "mrp" : 999,
+            "image" : "https://m.media-amazon.com/images/I/51JA6JE6boS._AC_UL480_FMwebp_QL65_.jpg",
+            "discount" : "71%",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart"
+      }      
+   ],
+   "Plastic Compass Boxes and Pouches" : [
+      {
+      "id" : "pcb1",
+      "name" : "Compass Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/71yii4D4l-L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+      },
+      {
+        "id" : "pcb2",
+        "name" : "Compass Box",
+        "price" : 292,
+        "mrp" : 999,
+        "image" : "https://m.media-amazon.com/images/I/614WtHntn3L._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "71%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+        },
+        {
+          "id" : "pcb3",
+          "name" : "Compass Box",
+          "price" : 292,
+          "mrp" : 999,
+          "image" : "https://m.media-amazon.com/images/I/41v3oPBjkjL._AC_UL480_FMwebp_QL65_.jpg",
+          "discount" : "71%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+          },
+          {
+            "id" : "pcb4",
+            "name" : "Compass Box",
+            "price" : 292,
+            "mrp" : 999,
+            "image" : "https://m.media-amazon.com/images/I/71a3etzalKL._AC_UL480_FMwebp_QL65_.jpg",
+            "discount" : "71%",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart"
+            },
+     {
+       "id" : "pcb5",
+       "name" : "Compass Box",
+       "price" : 292,
+       "mrp" : 999,
+       "image" : "https://m.media-amazon.com/images/I/312eWiKwkoL._AC_UL480_FMwebp_QL65_.jpg",
+       "discount" : "71%",
+       "rating": 3.4,
+       "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+       "btn": "Add to Cart"
+     },
+        {
+          "id" : "pcb6",
+          "name" : "Compass Box",
+          "price" : 292,
+          "mrp" : 999,
+          "image" : "https://www.technochitra.com/image/cache/catalog/Pencil%20Boxes/DSC_8339%20copy%20-%20Copy-550x550.jpg",
+          "discount" : "71%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+        },
+        {
+            "id" : "pcb7",
+            "name" : "Compass Box",
+            "price" : 292,
+            "mrp" : 999,
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZg1-d6VoH1S_kRcUz-D5uuW8Ynt3OztL7zXsaeIeVwDtEgyqnmcvAZavcLmP3e0y2Hlo&usqp=CAU",
+            "discount" : "71%",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart"
+        },
+        {
+          "id" : "pcb8",
+          "name" : "Compass Box",
+          "price" : 292,
+          "mrp" : 999,
+          "image" : "https://www.jiomart.com/images/product/original/rvpbcmsex0/pluspicks-unicorn-pencil-case-pen-box-3d-unicorn-cover-compass-box-school-supply-organizer-for-kids-students-girls-gift-baby-stationery-box-cosmetic-zip-pouch-bag-unicorn-school-multi-compartment-pink-pouch-product-images-orvpbcmsex0-p607333368-0-202401121811.jpg?im=Resize=(1000,1000)",
+          "discount" : "71%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+        }
+
+   ],
+   "Geometry Compass Boxes" : [
+    {
+      "id" : "gcb1",
+      "name" : "Geometry Compass Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/61uNUoJrX6L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "gcb2",
+      "name" : "Geometry Compass Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/51sNMzQAbNL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "gcb3",
+      "name" : "Geometry Compass Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/61zy5Nvu1TL._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    },
+    {
+      "id" : "gcb4",
+      "name" : "Geometry Compass Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/61yZUgt-j7L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+    }
+   ],
+   "Lunch Boxes" : [
+     {
+      "id" : "lb1",
+      "name" : "Plastic Lunch Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/51kZdvMsY4L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "lb2",
+      "name" : "Plastic Lunch Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/71FKgPgdf1L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "lb3",
+      "name" : "Plastic Lunch Box",
+      "price" : 292,
+      "mrp" : 999,
+      "image" : "https://m.media-amazon.com/images/I/61KdIrjpt2L._AC_UL480_FMwebp_QL65_.jpg",
+      "discount" : "71%",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     }
+   ],
+   "Slates and Boards" : [
+    {
+      "id" : "scb1",
+      "name" : "Raja Slate plane",
+      "price" : 100,
+      "image" : "https://5.imimg.com/data5/SELLER/Default/2024/4/414078103/UF/IB/LN/31710223/black-slate-500x500.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb2",
+      "name" : "Raja Slate Chex and line",
+      "price" : 100,
+      "image" : "https://5.imimg.com/data5/WA/CG/GLADMIN-13033550/raja-big-deluxe-line-graph-500x500.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb3",
+      "name" : "Smart Slate",
+      "price" : 250,
+      "image" : "https://m.media-amazon.com/images/I/41jQ0VScjfL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb4",
+      "name" : "Pearl Games Slate",
+      "price" : 250,
+      "image" : "https://m.media-amazon.com/images/I/71k+WtFWwCL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb5",
+      "name" : "White Board with Marker and Duster",
+      "price" : 700,
+      "image" : "https://m.media-amazon.com/images/I/61LZpZYz+SL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb7",
+      "name" : "Black Board with Chalk and Duster",
+      "price" : 280,
+      "image" : "https://m.media-amazon.com/images/I/61mxD1fQgoL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb8",
+      "name" : "Transapart Clipboard",
+      "price" : 280,
+      "image" : "https://m.media-amazon.com/images/I/61XHvA8nyjL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb9",
+      "name" : "Wood Sadust Clipboard",
+      "price" : 280,
+      "image" : "https://m.media-amazon.com/images/I/81bivLhbsrL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     },
+     {
+      "id" : "scb10",
+      "name" : "Maped Clipboard city light",
+      "price" : 150,
+      "image" : "https://m.media-amazon.com/images/I/711iaLybWEL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart"
+     }
+
+    
+   ]
+  },
+
+  "gums collection" : {
+    "Sello Taps" : [
+      {
+      "id" : "st1",
+      "name" : "Sello Tap Brown Roll",
+      "price" : 292,
+      "image" : "https://m.media-amazon.com/images/I/61rMIDXxloL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart" 
+      },
+      {
+        "id" : "st2",
+        "name" : "Sello Tap Transaprant Roll",
+        "price" : 70,
+        "image" : "https://m.media-amazon.com/images/I/61oPymGMbJL._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+      },
+      {
+        "id" : "st3",
+        "name" : "Sello Tap white Transaprant 24mm ",
+        "price" : 40,
+        "image" : "https://m.media-amazon.com/images/I/51RpLOdbjPL._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+        },
+        {
+        "id" : "st4",
+        "name" : "Sello Tap white Transaprant thin ",
+         "price" : 25,
+         "image" : "https://m.media-amazon.com/images/I/11jsiF7NXAL._AC_UL450_FMwebp_QL65_.jpg",
+         "rating": 3.4,
+         "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+          },
+          {
+            "id" : "st5",
+            "name" : "Colour full Sello Tap  ",
+            "price" : 25,
+            "image" : "https://m.media-amazon.com/images/I/61-J-VuQWPL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+          },
+          {
+            "id" : "st6",
+            "name" : "Decorative Glitter tap",
+            "price" : 25,
+            "image" : "https://m.media-amazon.com/images/I/71FyBDUjMhL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+          },
+          {
+            "id" : "st7",
+            "name" : "Double Gum Tap thike  ",
+            "price" : 25,
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFn9tMWnti88EZKB5nsHhV6pGWOnrBOluLGA&s",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+          },
+          {
+            "id" : "st8",
+            "name" : "Colour full Sello Tap thin ",
+            "price" : 25,
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRqzGjpByjajI0y-R4B-6aGPck393-BwS5Q&s",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+          }
+            
+    ],
+    "Fevi Gums" : [
+      {
+      "id" : "fg1",
+      "name" : "Fevi stick",
+      "price" : 25,
+      "image" : "https://m.media-amazon.com/images/I/51nn+Lt+8kL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 3.4,
+      "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+      "btn": "Add to Cart" 
+      },
+      {
+        "id" : "fg2",
+        "name" : "Fevi Bond",
+        "price" : 125,
+        "image" : "https://m.media-amazon.com/images/I/51lCQVZwz5L._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+        },
+        {
+          "id" : "fg3",
+          "name" : "Fevi Kwik",
+          "price" : 25,
+          "image" : "https://m.media-amazon.com/images/I/51+Af-CAtKL._AC_UL480_FMwebp_QL65_.jpg",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart" 
+          },
+          {
+            "id" : "fg4",
+            "name" : "Fevicryl",
+            "price" : 25,
+            "image" : "https://m.media-amazon.com/images/I/81zdeTxqkLL._AC_UL480_FMwebp_QL65_.jpg",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+            },
+            {
+              "id" : "fg5",
+              "name" : "Fevicol",
+              "price" : 25,
+              "image" : "https://m.media-amazon.com/images/I/51X1RG-7WmL._AC_UL480_FMwebp_QL65_.jpg",
+              "rating": 3.4,
+              "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+              "btn": "Add to Cart" 
+              }     
+    ],
+    "Bottels" : [
+      {
+        "id" : "bg1",
+        "name" : "Camlin Gum",
+        "price" : 140,
+        "image" : "https://m.media-amazon.com/images/I/61ceE4G1amL._AC_UL480_FMwebp_QL65_.jpg",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart" 
+        },
+        {
+          "id" : "bg2",
+          "name" : "Navneet Youva Gum",
+          "price" : 140,
+          "image" : "https://m.media-amazon.com/images/I/61fzHMeMngL._AC_UL480_FMwebp_QL65_.jpg",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart" 
+          },
+          {
+            "id" : "bg3",
+            "name" : "Camlin Gum",
+            "price" : 30,
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1Zbje9ZWKNanw95d8gu029_uZ_JUKPOFrw&s",
+            "rating": 3.4,
+            "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+            "btn": "Add to Cart" 
+            }
+    ],
+    "Glue Guns" : [
+      {
+        "id" : "gg1",
+        "name" : "Big glue gun",
+        "price" : 300,
+        "mrp" : 999,
+        "image" : "https://m.media-amazon.com/images/I/61E2XZjHjGL._AC_UL480_FMwebp_QL65_.jpg",
+        "discount" : "71%",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "btn": "Add to Cart"
+        },
+        {
+          "id" : "gg2",
+          "name" : "Glue gun",
+          "price" : 300,
+          "mrp" : 999,
+          "image" : "https://m.media-amazon.com/images/I/61gSJ6dFxXL._AC_UL480_FMwebp_QL65_.jpg",
+          "discount" : "71%",
+          "rating": 3.4,
+          "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+          "btn": "Add to Cart"
+          }
+    ]
+  },
+
+  "calculators" : {
+    "Basic Calculators" : [
+      {
+       "id": "bc1",
+        "name": "Regular Calculator",
+        "price": "395",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/81uDHNxkV8L._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart" 
+      },
+      {
+        "id": "bc2",
+         "name": "Regular Calculator",
+         "price": "395",
+         "rating": 3.4,
+         "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+         "image": "https://m.media-amazon.com/images/I/611slw6gynL._AC_UY327_FMwebp_QL65_.jpg",
+         "btn": "Add to Cart" 
+       },
+       {
+        "id": "bc3",
+         "name": "Regular Calculator",
+         "price": "395",
+         "rating": 3.4,
+         "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+         "image": "https://m.media-amazon.com/images/I/712Fbt-YyzL._AC_UL480_FMwebp_QL65_.jpg",
+         "btn": "Add to Cart" 
+       }
+
+    ],
+    "Scientific Calculators" : [
+      {
+        "id": "sc1",
+        "name": "Scientific Calculator",
+        "price": "395",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/71zNVYpWx-L._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      },
+      {
+        "id": "sc2",
+        "name": "Scientific Calculator",
+        "price": "585",
+        "rating": 3.4,
+        "description": "A compact and portable short notebook from Classmate with ruled pages, ideal for quick notes. Contains 72 pages.",
+        "image": "https://m.media-amazon.com/images/I/613SC6cE2ZL._AC_UY327_FMwebp_QL65_.jpg",
+        "btn": "Add to Cart"
+      }
+
+    ]
+  }
+}

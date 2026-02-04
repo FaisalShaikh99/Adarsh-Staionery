@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "name": "Geometry Compass",
+    "price": "200.00",
+    "image": "https://scooboo.in/cdn/shop/products/doms-student-friendly-geometry-box-rulers-measuring-tools-scooboo-807980.jpg?v=1679508115&width=1214",
+    "btn": "Add to Cart",
+    "discount": "10%",
+    "rating": 4.5,
+    "mrp": "220.00",
+    "description": "A student-friendly geometry compass set, likely including essential tools for basic geometric constructions."
+  },
+  {
+    "id": "2",
+    "name": "Stylish Compass Box",
+    "price": "350.00",
+    "image": "https://i.pinimg.com/474x/a5/40/44/a54044bd64da2cdad30a234361af2810.jpg",
+    "btn": "Add to Cart",
+    "discount": "15%",
+    "rating": 4.2,
+    "mrp": "410.00",
+    "description": "A stylish and possibly more comprehensive geometry box, suitable for students or professionals."
+  },
+  {
+    "id": "3",
+    "name": "XO Ballpen Bunch",
+    "price": "850.00",
+    "image": "https://m.media-amazon.com/images/I/61Mg-H-qbZL.jpg",
+    "btn": "Add to Cart",
+    "discount": "20%",
+    "rating": 4.0,
+    "mrp": "1060.00",
+    "description": "A bunch of XO brand ballpoint pens, likely known for smooth writing and durability."
+  },
+  {
+    "id": "4",
+    "name": "Casio Calculator",
+    "price": "550.00",
+    "image": "https://pensouq.in/cdn/shop/files/Designer_20_015ee858-913f-4668-a559-62d3d66141bf.png?v=1740041505&width=533",
+    "btn": "Add to Cart",
+    "discount": "5%",
+    "rating": 4.7,
+    "mrp": "580.00",
+    "description": "A Casio brand scientific calculator, suitable for mathematical calculations in school or college."
+  },
+  {
+    "id": "5",
+    "name": "Files",
+    "price": "550.00",
+    "image": "https://2.imimg.com/data2/VM/YA/MY-5731773/office-files-250x250.jpg",
+    "btn": "Add to Cart",
+    "discount": "12%",
+    "rating": 3.9,
+    "mrp": "625.00",
+    "description": "A set of office files, likely for organizing documents and papers."
+  },
+  {
+    "id": "6",
+    "name": "Clip Board",
+    "price": "200.00",
+    "image": "https://f.media-amazon.com/images/I/21ngQDWU-JL._SX300_SY300_QL70_FMwebp_.jpg",
+    "btn": "Add to Cart",
+    "discount": "8%",
+    "rating": 4.1,
+    "mrp": "216.00",
+    "description": "A standard clip board, useful for writing and holding papers securely."
+  },
+  {
+    "id": "7",
+    "name": "Doms Sketchpen Color",
+    "price": "100.00",
+    "image": "https://notebookstore.in/public/uploads/product/d74PbFdoms-sketch-max-sketch-pen-12-shades-1000x1000.webp",
+    "btn": "Add to Cart",
+    "discount": "15%",
+    "rating": 4.3,
+    "mrp": "118.00",
+    "description": "A set of sketch pens, likely with vibrant colors for drawing and coloring."
+  },
+  {
+    "id": "8",
+    "name": "Steplor",
+    "price": "50.00",
+    "image": "https://5.imimg.com/data5/WR/UZ/UR/SELLER-8586032/kangaroo-stapler-500x500.jpg",
+    "btn": "Add to Cart",
+    "discount": "5%",
+    "rating": 4.0,
+    "mrp": "53.00",
+    "description": "A standard stapler, essential for binding papers together."
+  },
+  {
+    "id": "9",
+    "name": "Pencil Box",
+    "price": "80.00",
+    "image": "https://raipurshop.com/wp-content/uploads/2023/02/Apsara-high-quality-platinum-extra-dark-pencil-for-schools-offices-home-students.jpg",
+    "btn": "Add to Cart",
+    "discount": "10%",
+    "rating": 4.4,
+    "mrp": "88.00",
+    "description": "A pencil box, likely containing a set of high-quality pencils for writing and drawing."
+  },
+  {
+    "id": "10",
+    "name": "Saino Softek Ball Pens",
+    "price": "80.00",
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2024/5/417150382/ZP/PG/IX/213042838/product-jpeg-500x500.jpg",
+    "btn": "Add to Cart",
+    "discount": "12%",
+    "rating": 4.2,
+    "mrp": "90.00",
+    "description": "A set of Saino Softek ballpoint pens, known for their smooth and comfortable writing experience."
+  },
+  {
+    "id": "11",
+    "name": "Spiral Notebooks",
+    "price": "250.00",
+    "image": "https://images.jdmagicbox.com/quickquotes/images_main/classmate_pulse_6_sub_spiral_notebook_2100114__11926272_0.jpg",
+    "btn": "Add to Cart",
+    "discount": "18%",
+    "rating": 4.1,
+    "mrp": "305.00",
+    "description": "A set of spiral notebooks, likely with multiple sections or subjects for organized note-taking."
+  },
+  {
+    "id": "12",
+    "name": "Answer Sheet",
+    "price": "10.00",
+    "image": "https://m.media-amazon.com/images/I/81e7t+uzVAL.jpg",
+    "btn": "Add to Cart",
+    "discount": "0%",
+    "rating": 3.8,
+    "mrp": "10.00",
+    "description": "A pack of answer sheets, likely standard lined paper for writing answers or notes."
+  },
+  {
+    "id": "13",
+    "name": "Highlighter",
+    "price": "120.00",
+    "image": "https://5.imimg.com/data5/DE/BL/MY-30961607/highlighter-pen.png",
+    "btn": "Add to Cart",
+    "discount": "10%",
+    "rating": 4.5,
+    "mrp": "132.00",
+    "description": "A set of highlighter pens in various colors, useful for emphasizing important text."
+  },
+  {
+    "id": "14",
+    "name": "Favicol",
+    "price": "20.00",
+    "image": "https://www.shaanstationery.com/image/cache/catalog/pidilite/pidilite-fevical-mr-22.5g-1000x1000.jpg",
+    "btn": "Add to Cart",
+    "discount": "5%",
+    "rating": 4.6,
+    "mrp": "21.00",
+    "description": "A bottle of Fevicol MR adhesive, a common and reliable glue for paper and other materials."
+  },
+  {
+    "id": "15",
+    "name": "Alphabet Book",
+    "price": "100.00",
+    "image": "https://cdn.fcglcdn.com/brainbees/images/products/583x720/3106308a.webp",
+    "btn": "Add to Cart",
+    "discount": "15%",
+    "rating": 4.4,
+    "mrp": "115.00",
+    "description": "An alphabet book, designed for early learning and recognition of letters."
+  },
+  {
+    "id": "16",
+    "name": "Friut Chart",
+    "price": "180.00",
+    "image": "https://purpleturtle.us/cdn/shop/products/Fruits_vegetables_270685b2-98b4-4502-b5d7-8a6cc1fc9950_2048x.jpg?v=1640247618",
+    "btn": "Add to Cart",
+    "discount": "20%",
+    "rating": 4.3,
+    "mrp": "225.00",
+    "description": "A colorful fruit chart, likely educational for children or decorative."
+  }
+]

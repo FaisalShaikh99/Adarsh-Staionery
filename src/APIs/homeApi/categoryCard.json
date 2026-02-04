@@ -1,0 +1,74 @@
+
+   [
+    {
+      "id": 1,
+      "title": "bags & storage",
+      "discription" : "Stay organized and carry your essentials with ease. Our durable and stylish backpack offers ample space, comfortable straps, and a sleek design perfect for school, work, or travel.",
+      "img": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 2,
+      "title": "notebooks & writing pads",
+      "discription" : "Unleash your imagination with every page. A book is a gateway to new worlds and endless possibilities.",
+      "img": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 3,
+      "title": "pens",
+      "discription" : "Discover smooth, reliable writing with our premium pens. Perfect for everyday use, from school to office. Available in a variety of styles, colors, and tip sizes.",
+      "img": "https://thumbs.dreamstime.com/b/cartoon-vector-stationery-set-pens-pencils-vibrant-colors-perfect-any-design-creative-stationery-illustration-set-346479664.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 4,
+      "title": "pencils",
+      "discription" : "Discover smooth, reliable writing with our premium pens. Perfect for everyday use, from school to office. Available in a variety of styles, colors, and tip sizes.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pD6nFt0tSSFAoC6iiLy4Ilww5WzGuOZS3w&s",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 5,
+      "title": "art & craft",
+      "discription" : "Bring your creativity to life with our art and craft supplies. From vibrant colors to unique tools, everything you need to create, design, and inspire is right here. Perfect for students, hobbyists, and professionals alike.",
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/000/650/910/small_2x/630_R0lVIEpFTiAzNTktMTk.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 6,
+      "title": "papers",
+      "discription" : "High-quality printing and document papers designed for sharp text and vibrant colors. Perfect for reports, presentations, and everyday office use — reliable performance in every sheet.",
+      "img": "https://static.vecteezy.com/system/resources/previews/003/498/360/non_2x/a-stack-of-paper-illustration-in-flat-style-vector.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 7,
+      "title": "colors",
+      "discription" : "Add color to your creativity with our vibrant and smooth color range. From watercolors to pencils and chalks, each product is designed to bring your ideas to life with ease and joy.",
+      "img": "https://i.ebayimg.com/images/g/xVMAAOSwAmBfxzjJ/s-l1200.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 8,
+      "title": "school essentials",
+      "discription" : "Everything students need — from geometry boxes to erasers and rulers — all in one place.Perfect for everyday schoolwork and exam preparation.",
+      "img": "https://m.media-amazon.com/images/I/711j6szzlyL.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 9,
+      "title": "gums collection",
+      "discription" : "Explore a wide variety of adhesives like Fevicol, glue sticks, and tapes.Reliable solutions for craft, office, and home use.",
+      "img": "https://www.shaanstationery.com/image/cache/catalog/category/tapes-adhesive-600x315.jpg",
+      "buttonText" : "View More"
+    },
+    {
+      "id": 10,
+      "title": "calculators",
+      "discription" : "Add color to your creativity with our vibrant and smooth color range. From watercolors to pencils and chalks, each product is designed to bring your ideas to life with ease and joy.From basic to scientific calculators and essential desk gadgets. Smart tools to support learning, office work, and quick calculations.",
+      "img": "https://img.freepik.com/free-vector/calculator-floating-cartoon-vector-icon-illustration-finance-business-icon-concept-isolated-flat_138676-9297.jpg?semt=ais_hybrid&w=740",
+      "buttonText" : "View More"
+    }
+  ]
+

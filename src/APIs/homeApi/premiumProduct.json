@@ -1,0 +1,52 @@
+[
+    {
+  "id": 1,
+  "layout": "left", 
+  "horizontal": {
+    "id": 1,
+    "title" : "colors" ,
+    "name" : "DOMS COLORS",
+    "buttonText" : "Shop Now",
+    "image": "https://pluuginstore.com/cdn/shop/files/doomsClctn_Bnr.webp?v=1738154060",
+    "description" : "DOMS Industries Ltd. is a leading Indian stationery and art supply brand known for quality and innovation. Their DOMS Colours range includes vibrant crayons, oil pastels, and colour pencils designed for smooth application and rich pigmentation. Trusted by students and artists alike, DOMS combines creativity with durability in every product."
+  },
+  "vertical": [
+    {
+      "id": "v1",
+      "title" : "bags & storage" ,
+      "name": "HOTSHOT BAGS",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/backpack/u/q/j/18-hotshot-bag-school-bag-tuition-bag-office-bag-college-original-imahyrrv2mhzydzb.jpeg?q=90&crop=false",
+      "buttonText" :"Shop Now"
+    },
+    {
+      "id": "v2",
+      "title" : "pencils" ,
+      "name": "APSARA Pencil Box",
+      "image": "https://www.jiomart.com/images/product/original/rvmtcvxd6m/apsara-platinum-pencils-hexagonal-body-for-strong-grip-extra-dark-easy-sharpening-free-sharpener-eraser-non-toxic-use-for-school-college-students-office-person-pack-of-3-product-images-orvmtcvxd6m-p610787857-2-202412230919.jpg?im=Resize=(420,420) ",
+      "buttonText" :"Shop Now"
+
+    },
+    {
+      "id": "v3",
+      "title" : "notebooks & writing pads" ,
+      "name": "Adarsh NOTBOOKS",
+      "image": "https://i.pinimg.com/736x/bc/96/ba/bc96ba132b60d2b3294095df5e753cf0.jpg",
+      "buttonText" :"Shop Now"
+
+    }
+  ],
+
+  "banner" : [
+    {
+      "id": "y1",
+      "title" : "pens" ,
+      "name": "XO  BALLPEN",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c14f321-5cc9-47fb-b460-e8ac5bb8a0ae.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "buttonText" :"Shop Now"
+    }
+  ]
+}
+]
+
+
+
