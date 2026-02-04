@@ -69,10 +69,6 @@ function Login() {
         >
           <h2 className="text-4xl font-bold text-accent mb-6">Sign In</h2>
 
-          <div className="text-center text-text font-medium my-3">
-             Sign in with email
-          </div>
-
           {/* Email Input */}
           <div className="flex items-center border rounded-lg mb-4 p-3">
             <MdEmail className="text-accent mr-3 text-xl" />
