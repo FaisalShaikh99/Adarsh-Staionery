@@ -38,7 +38,7 @@ const authSlice = createSlice({
 
       // agar user exist nahi hai to naya user create hoga
       if (!isExist) {
-        const newUser = { name: name.trim(), email: normalizedEmail, password, avatarUrl }; // new user ke liye object
+        const newUser = { name: name.trim(), email: normalizedEmail, password: password.trim(), avatarUrl }; // new user ke liye object
         state.users.push(newUser);  // new user ka data users array me add hoga
         state.user = newUser; // aur user(current user) me bhi new user ka data set hoga
         // Persist users in localStorage under the correct key so Login reads them

@@ -25,6 +25,12 @@ function Login() {
     const normalizedEmail = email.trim().toLowerCase();
     const normalizedPassword = password.trim();
     const allUsers = JSON.parse(localStorage.getItem("users")) || [];
+
+    console.log("Attempting Login:");
+    console.log("Entered Email:", normalizedEmail);
+    console.log("Entered Password:", normalizedPassword);
+    console.log("Stored Users:", allUsers);
+
     const localUser = allUsers.find(
       (u) =>
         u.email &&
@@ -38,6 +44,7 @@ function Login() {
       toast.success(`Welcome, ${localUser.name}`);
       navigate("/");
     } else {
+      console.log("Login Failed: No matching user found.");
       toast.error("Invalid email or password");
     }
   };
