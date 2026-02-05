@@ -48,7 +48,7 @@ function Home() {
               key={index}
               src={img}
               alt={`Slide ${index + 1}`}
-              className="h-[250px] sm:h-[350px] md:h-[500px] w-full rounded-3xl object-cover"
+              className="h-[250px] sm:h-[350px] md:h-[500px] w-full object-cover"
             />
           ))}
         </Slider>

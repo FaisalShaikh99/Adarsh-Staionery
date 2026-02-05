@@ -9,7 +9,7 @@ function AppLayout() {
     <div className="flex flex-col min-h-screen">
       <ScrollToTop /> {/* Feature of Scroll from top when redireact another page */}
       <Header />
-      <main className="flex-grow">
+      <main className="flex-grow pt-[70px] md:pt-[110px]">
         <Outlet />
       </main>
       <Footer />

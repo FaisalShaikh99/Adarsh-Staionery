@@ -74,8 +74,8 @@ function Header() {
   };
 
   return (
-    <div className="bg-secondary sticky top-0 z-50">
-      <div className="py-3 px-4 md:px-6 ">
+    <div className="bg-secondary fixed left-0 top-0  w-full z-50">
+      <div className="py-2 px-4 md:px-6 ">
         <div className="flex justify-between items-center">
           {/* Logo */}
           <div
@@ -84,10 +84,10 @@ function Header() {
           >
             {/* Left Text Section */}
             <div className="flex flex-col leading-tight ">
-              <h1 className="text-2xl sm:text-4xl md:text-5xl text-accent font-extrabold">
+              <h1 className="text-2xl sm:text-3xl md:text-3xl text-accent font-extrabold">
                 Adarsh📚
               </h1>
-              <p className="text-sm sm:text-xl md:text-2xl text-white font-semibold -mt-1 sm:-mt-2">
+              <p className="text-sm sm:text-base md:text-base text-white font-semibold -mt-1 sm:-mt-1">
                 Stationery Mart
               </p>
             </div>
@@ -510,7 +510,7 @@ function Header() {
       )}
 
         {/* Desktop view: Pages Navbar and Contact No */}
-        <div className="hidden md:flex mt-4 items-center justify-between ">
+        <div className="hidden md:flex mt-1 items-center justify-between ">
           {/* Location */}
           <div className="flex gap-x-2 py-1 px-2">
             <FaLocationDot className="text-accent mt-2 text-lg " />
