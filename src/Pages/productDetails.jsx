@@ -40,7 +40,7 @@ function ProductDetails() {
   const handleAddToCart = () => {
     const currentUser = JSON.parse(localStorage.getItem("currentUser"));
     if (!currentUser) {
-      toast.error("Please login to add items to cart");
+      toast.info("Please login now");
       navigate("/login");
       return;
     }
@@ -49,11 +49,23 @@ function ProductDetails() {
   };
 
   const handleIncreaseQty = () => {
+    const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+    if (!currentUser) {
+      toast.info("Please login now");
+      navigate("/login");
+      return;
+    }
     setCurrentQuantity((prevQty) => prevQty + 1);
     dispatch(increaseQty(product));
   };
 
   const handleDecreaseQty = () => {
+    const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+    if (!currentUser) {
+      toast.info("Please login now");
+      navigate("/login");
+      return;
+    }
     if (currentQuantity > 1) {
       setCurrentQuantity((prevQty) => prevQty - 1);
       dispatch(decreaseQty(product));
@@ -63,7 +75,7 @@ function ProductDetails() {
    const handleBuyBtn = () => {
     const currentUser = JSON.parse(localStorage.getItem("currentUser"));
     if (!currentUser) {
-      toast.error("Please login to buy items");
+      toast.info("Please login now");
       navigate("/login");
       return;
     }

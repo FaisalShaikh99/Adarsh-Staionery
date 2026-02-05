@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { FaSearch, FaPhoneAlt } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";
 import { Link, NavLink, useNavigate } from "react-router-dom";
+import { toast } from "react-toastify";
 import { FaLocationDot } from "react-icons/fa6";
 import { useSelector } from "react-redux";
 import productsData from "../../APIs/homeApi/allCategories.json";
@@ -73,7 +74,7 @@ function Header() {
   };
 
   return (
-    <div className="bg-secondary ">
+    <div className="bg-secondary sticky top-0 z-50">
       <div className="py-3 px-4 md:px-6 ">
         <div className="flex justify-between items-center">
           {/* Logo */}
@@ -106,6 +107,13 @@ function Header() {
             <div
               className="flex cursor-pointer items-center gap-x-0.5 rounded-md py-2 px-2 transition duration-200 hover:bg-gray-200"
               onClick={() => {
+                const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+                if (!currentUser) {
+                  toast.info("Please login now");
+                  navigate("/login");
+                  setIsMobileMenuOpen(false); // also close menu
+                  return;
+                }
                 navigate("/cart");
                 handleNavLinkClick(); // Close menu when navigating
               }}
@@ -214,7 +222,15 @@ function Header() {
             {/* Orders */}
             <div
               className="flex cursor-pointer items-center gap-x-1 rounded-lg py-2 px-4 hover:bg-gray-200 transition duration-200"
-              onClick={() => navigate("/orders")}
+              onClick={() => {
+                const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+                if (!currentUser) {
+                  toast.info("Please login now");
+                  navigate("/login");
+                  return;
+                }
+                navigate("/orders");
+              }}
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -235,9 +251,17 @@ function Header() {
             {/* cart btn */}
             <div
               className="flex cursor-pointer items-center gap-x-0.5 rounded-md py-2 px-4 transition duration-200 hover:bg-gray-200"
-              onClick={() => navigate("/cart")}
+              onClick={() => {
+                const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+                if (!currentUser) {
+                  toast.info("Please login now");
+                  navigate("/login");
+                  return;
+                }
+                navigate("/cart");
+              }}
             >
-              <NavLink to={"/cart"}>
+              
                 <div className="relative">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -252,17 +276,26 @@ function Header() {
                   </span>
                 </div>
                 <span className="text-sm font-semibold text-Text">Cart</span>
-              </NavLink>
+              
             </div>
-            {/* profile btn */}
-            <div
-              className="flex items-center gap-x-1 h-8 px-2 rounded-xl hover:bg-gray-200 hover:text-accent transition duration-200 cursor-pointer"
-              onClick={() => navigate("/profile")}
-            >
-              <span className="text-2xl text-Text">
-                <CgProfile />
-              </span>
-            </div>
+            {/* profile btn or Login btn */}
+            {localStorage.getItem("currentUser") ? (
+              <div
+                className="flex items-center gap-x-1 h-8 px-2 rounded-xl hover:bg-gray-200 hover:text-accent transition duration-200 cursor-pointer"
+                onClick={() => navigate("/profile")}
+              >
+                <span className="text-2xl text-Text">
+                  <CgProfile />
+                </span>
+              </div>
+            ) : (
+                <button
+                  className="bg-accent text-white px-4 py-1.5 rounded-md text-sm font-semibold hover:bg-[#603268] transition-all ml-2"
+                  onClick={() => navigate("/login")}
+                >
+                  Login
+                </button>
+            )}
           </div>
         </div>
 
@@ -394,6 +427,13 @@ function Header() {
             <div
               className="flex cursor-pointer items-center gap-x-2 py-2 px-2 rounded-xl hover:bg-gray-200"
               onClick={() => {
+                const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+                if (!currentUser) {
+                  toast.info("Please login now");
+                  navigate("/login");
+                  setIsMobileMenuOpen(false); // also close menu
+                  return;
+                }
                 navigate("/orders");
                 handleNavLinkClick(); // Close menu after navigation
               }}
@@ -413,19 +453,34 @@ function Header() {
               </svg>
               <span className="text-md font-semibold text-Text">Orders</span>
             </div>
-            {/* Profile for mobile */}
-            <div
-              className="flex items-center gap-x-2 py-2 px-2 rounded-xl hover:bg-gray-200"
-              onClick={() => {
-                navigate("/profile");
-                handleNavLinkClick(); // Close menu after navigation
-              }}
-            >
-              <span className="text-2xl text-Text">
-                <CgProfile />
-              </span>
-              <span className="text-md font-semibold text-Text">Profile</span>
-            </div>
+            {/* Profile or Login for mobile */}
+            {localStorage.getItem("currentUser") ? (
+              <div
+                className="flex items-center gap-x-2 py-2 px-2 rounded-xl hover:bg-gray-200"
+                onClick={() => {
+                  navigate("/profile");
+                  handleNavLinkClick(); // Close menu after navigation
+                }}
+              >
+                <span className="text-2xl text-Text">
+                  <CgProfile />
+                </span>
+                <span className="text-md font-semibold text-Text">Profile</span>
+              </div>
+            ) : (
+              <div
+                className="flex items-center gap-x-2 py-2 px-2 rounded-xl hover:bg-gray-200"
+                onClick={() => {
+                  navigate("/login");
+                  handleNavLinkClick(); // Close menu after navigation
+                }}
+              >
+                 <span className="text-2xl text-Text">
+                  <CgProfile />
+                </span>
+                <span className="text-md font-semibold text-Text">Login</span>
+              </div>
+            )}
             {/* Location for mobile */}
             <div
               className="flex items-center gap-x-2 py-2 px-2 rounded-xl hover:bg-gray-200"

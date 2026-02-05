@@ -31,43 +31,23 @@ function App() {
       children: [
         {
           path: "/",
-          element: (
-            <Privateroute>
-              <Home />
-            </Privateroute>
-          ),
+          element: <Home />,
         },
         {
           path: "/about",
-          element: (
-            <Privateroute>
-              <About />
-            </Privateroute>
-          ),
+          element: <About />,
         },
         {
           path: "/category/:categoryName",
-          element: (
-            <Privateroute>
-              <CategoryPage />
-            </Privateroute>
-          ),
+          element: <CategoryPage />,
         },
         {
           path: "/contact",
-          element: (
-            <Privateroute>
-              <Contact />
-            </Privateroute>
-          ),
+          element: <Contact />,
         },
         {
           path: "/product/:id",
-          element: (
-            <Privateroute>
-              <ProductDetails />
-            </Privateroute>
-          ),
+          element: <ProductDetails />,
         },
         {
           path: "/cart",
@@ -127,19 +107,11 @@ function App() {
         },
         {
           path: "/location",
-          element: (
-            <Privateroute>
-              <Location />
-            </Privateroute>
-          ),
+          element: <Location />,
         },
         {
           path: "/search",
-          element: (
-            <Privateroute>
-              <SearchPage />
-            </Privateroute>
-          ),
+          element: <SearchPage />,
         },
       ],
     },
